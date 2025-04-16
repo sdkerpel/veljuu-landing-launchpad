@@ -14,7 +14,7 @@ const Hero = () => {
             <span className="text-veljuu-600">Expertise for Your Business</span>
           </h1>
           <p className="text-xl md:text-2xl mt-6 text-gray-700 max-w-2xl">
-            Hi, I'm Stefanie De Kerpel, a freelance Product Manager with experience at TikTok, Bolt, and SNCB. I help companies build products that users love.
+            Hi, I'm Steffie De Kerpel, a freelance Product Manager with over 15 years of experience at companies of all sizes. I help those companies build products that users love.
           </p>
           <div className="mt-10 flex flex-col sm:flex-row gap-4">
             <a
