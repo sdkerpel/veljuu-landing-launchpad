@@ -4,28 +4,22 @@ import React from 'react';
 const Experience = () => {
   const experiences = [
     {
-      company: 'SNCB',
+      company: 'Product Leadership Role',
       role: 'Senior Product Manager',
-      period: '2023 - Present',
-      description: 'Leading the development of digital customer experiences for Belgium's national railway company, focusing on mobile apps and website improvements to enhance the travel experience for millions of passengers.'
+      period: '2022 - Present',
+      description: 'Leading digital product development, focusing on creating user-centric solutions and driving strategic product initiatives.'
     },
     {
-      company: 'Bolt',
-      role: 'Product Manager',
-      period: '2022 - 2023',
-      description: 'Led product initiatives for Bolt Food's restaurants and courier experiences across Europe, focusing on improving operational efficiency, growth, and satisfaction metrics.'
-    },
-    {
-      company: 'TikTok',
+      company: 'Digital Product Agency',
       role: 'Product Manager',
       period: '2020 - 2022',
-      description: 'Managed the Creator Marketplace product, connecting brands with content creators. Drove significant growth in user engagement and business metrics across European markets.'
+      description: 'Managed cross-functional teams to deliver innovative digital products, improving user experiences and business metrics.'
     },
     {
-      company: 'Wunderman Thompson',
+      company: 'Technology Consulting',
       role: 'Product Owner',
       period: '2018 - 2020',
-      description: 'Led agile teams to deliver digital solutions for major clients. Bridged the gap between business objectives and technical implementation, ensuring high-quality delivery of web and mobile applications.'
+      description: 'Bridged business objectives and technical implementation, ensuring high-quality delivery of web and mobile applications.'
     }
   ];
 
@@ -34,7 +28,7 @@ const Experience = () => {
       <div className="text-center mb-16">
         <h2 className="section-title">My Experience</h2>
         <p className="section-subtitle">
-          A proven track record of success at leading companies in diverse industries
+          Proven track record of delivering impactful digital products
         </p>
       </div>
 
@@ -72,3 +66,4 @@ const Experience = () => {
 };
 
 export default Experience;
+
