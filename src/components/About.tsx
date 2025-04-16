@@ -38,7 +38,7 @@ const About = () => {
         <div className="order-2 md:order-1">
           <h3 className="text-2xl font-bold text-veljuu-800 mb-4">Who I Am</h3>
           <p className="text-gray-700 mb-4">
-            I'm a seasoned Product Manager who has navigated diverse environments — from fast-growing scale-ups like TikTok and Bolt to established corporations like SNCB. This breadth of experience has given me a unique perspective on product development across different company stages and industries.
+            I'm a seasoned Product Manager who has navigated diverse environments — from fast-growing scale-ups like Peripass to established corporations like Payconiq by Bancontact. This breadth of experience has given me a unique perspective on product development across different company stages and industries.
           </p>
           <p className="text-gray-700 mb-4">
             With a background in Computer Science and over 15 years of experience in product development, I bring a holistic approach to product management that balances business objectives with user needs.
