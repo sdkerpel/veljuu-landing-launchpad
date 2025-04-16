@@ -4,13 +4,13 @@ import React from 'react';
 const Experience = () => {
   const experiences = [
     {
-      company: 'Product Leadership Role',
+      company: 'In The Pocket - Digital Product Agency',
       role: 'Senior Product Manager',
       period: '2022 - Present',
       description: 'Leading digital product development, focusing on creating user-centric solutions and driving strategic product initiatives.'
     },
     {
-      company: 'Digital Product Agency',
+      company: 'Summlink',
       role: 'Product Manager',
       period: '2020 - 2022',
       description: 'Managed cross-functional teams to deliver innovative digital products, improving user experiences and business metrics.'
