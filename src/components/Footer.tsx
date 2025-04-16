@@ -40,7 +40,7 @@ const Footer = () => {
               <Linkedin className="h-5 w-5" />
             </a>
             <a 
-              href="mailto:stefanie@veljuu.com" 
+              href="mailto:steffie@veljuu.com" 
               className="p-2 bg-white/10 rounded-full hover:bg-white/20 transition-colors"
               aria-label="Email"
             >
