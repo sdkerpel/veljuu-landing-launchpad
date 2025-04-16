@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Award, Users, Briefcase, Globe } from 'lucide-react';
 
@@ -6,7 +5,7 @@ const About = () => {
   const stats = [
     {
       icon: <Award className="h-8 w-8 text-veljuu-600" />,
-      value: '8+',
+      value: '15+',
       label: 'Years Experience',
     },
     {
