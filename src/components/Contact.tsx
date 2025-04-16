@@ -45,14 +45,8 @@ const Contact = () => {
     {
       icon: <Mail className="h-5 w-5 text-veljuu-600" />,
       label: 'Email',
-      value: 'stefanie@veljuu.com',
-      link: 'mailto:stefanie@veljuu.com',
-    },
-    {
-      icon: <Phone className="h-5 w-5 text-veljuu-600" />,
-      label: 'Phone',
-      value: '+32 (0) 123 456 789',
-      link: 'tel:+32123456789',
+      value: 'steffie@veljuu.com',
+      link: 'mailto:steffie@veljuu.com',
     },
     {
       icon: <Linkedin className="h-5 w-5 text-veljuu-600" />,
@@ -63,7 +57,7 @@ const Contact = () => {
     {
       icon: <MapPin className="h-5 w-5 text-veljuu-600" />,
       label: 'Location',
-      value: 'Brussels, Belgium',
+      value: 'G(h)ent, Belgium',
       link: null,
     },
   ];
@@ -74,7 +68,7 @@ const Contact = () => {
         <div className="text-center mb-16">
           <h2 className="section-title">Get In Touch</h2>
           <p className="section-subtitle">
-            Have a project in mind? Let's discuss how I can help you achieve your product goals.
+            Have a product issue in mind? Let's discuss how I can help you achieve your product goals.
           </p>
         </div>
 
@@ -132,7 +126,7 @@ const Contact = () => {
                 <Textarea
                   id="message"
                   name="message"
-                  placeholder="Tell me about your project..."
+                  placeholder="Tell me about your product issue..."
                   rows={5}
                   value={formData.message}
                   onChange={handleChange}
@@ -193,7 +187,7 @@ const Contact = () => {
                   <Linkedin className="h-5 w-5" />
                 </a>
                 <a 
-                  href="mailto:stefanie@veljuu.com" 
+                  href="mailto:steffie@veljuu.com" 
                   className="p-2 bg-white/10 rounded-full hover:bg-white/20 transition-colors"
                 >
                   <Mail className="h-5 w-5" />
